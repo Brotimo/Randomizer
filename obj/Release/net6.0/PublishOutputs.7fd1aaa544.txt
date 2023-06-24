@@ -1,0 +1,5 @@
+D:\Randomizer\Randomizer.exe
+D:\Randomizer\Randomizer.dll
+D:\Randomizer\Randomizer.deps.json
+D:\Randomizer\Randomizer.runtimeconfig.json
+D:\Randomizer\Randomizer.pdb
