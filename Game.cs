@@ -28,9 +28,10 @@
                 {
                     Name = Console.ReadLine();
 
-                    if (Name.Length <= 1 || Name.Length >= 100)
+                    if (Name.Length <= 0 || Name.Length >= 100)
                     {
-                        throw new ArgumentException("Zbyt mała lub zbyt duża liczba znaków");
+                        Console.WriteLine("Zbyt mała lub zbyt duża liczba znaków");
+                        break;
                     }
                     else
                     {
@@ -39,7 +40,7 @@
                     break;
 
                 }
-                catch (Exception)
+                catch (Exception e)
                 {
                     Console.Clear();
                     Console.WriteLine("Proszę podać poprawną nazwę gry!\n");

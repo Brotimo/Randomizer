@@ -26,6 +26,12 @@
                             Game newGame = new Game();
                             newGame.SetGameTitle();
 
+                            if (newGame.Name.Length <= 0)
+                            {
+                                BackToMainMenu();
+                                break;
+                            }
+
                             if (gamesCounter < gameList.Length)
                             {
                                 gameList[gamesCounter] = newGame;
