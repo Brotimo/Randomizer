@@ -13,3 +13,18 @@ C:\Users\bartl\source\repos\What to play\obj\Debug\net6.0\Randomizer.dll
 C:\Users\bartl\source\repos\What to play\obj\Debug\net6.0\refint\Randomizer.dll
 C:\Users\bartl\source\repos\What to play\obj\Debug\net6.0\Randomizer.pdb
 C:\Users\bartl\source\repos\What to play\obj\Debug\net6.0\ref\Randomizer.dll
+C:\Users\bartl\source\repos\Randomizer\bin\Debug\net6.0\Randomizer.exe
+C:\Users\bartl\source\repos\Randomizer\bin\Debug\net6.0\Randomizer.deps.json
+C:\Users\bartl\source\repos\Randomizer\bin\Debug\net6.0\Randomizer.runtimeconfig.json
+C:\Users\bartl\source\repos\Randomizer\bin\Debug\net6.0\Randomizer.dll
+C:\Users\bartl\source\repos\Randomizer\bin\Debug\net6.0\Randomizer.pdb
+C:\Users\bartl\source\repos\Randomizer\obj\Debug\net6.0\What to play.csproj.AssemblyReference.cache
+C:\Users\bartl\source\repos\Randomizer\obj\Debug\net6.0\What to play.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bartl\source\repos\Randomizer\obj\Debug\net6.0\What to play.AssemblyInfoInputs.cache
+C:\Users\bartl\source\repos\Randomizer\obj\Debug\net6.0\What to play.AssemblyInfo.cs
+C:\Users\bartl\source\repos\Randomizer\obj\Debug\net6.0\What to play.csproj.CoreCompileInputs.cache
+C:\Users\bartl\source\repos\Randomizer\obj\Debug\net6.0\Randomizer.dll
+C:\Users\bartl\source\repos\Randomizer\obj\Debug\net6.0\refint\Randomizer.dll
+C:\Users\bartl\source\repos\Randomizer\obj\Debug\net6.0\Randomizer.pdb
+C:\Users\bartl\source\repos\Randomizer\obj\Debug\net6.0\What to play.genruntimeconfig.cache
+C:\Users\bartl\source\repos\Randomizer\obj\Debug\net6.0\ref\Randomizer.dll
