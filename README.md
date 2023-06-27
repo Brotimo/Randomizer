@@ -1,2 +1,2 @@
 # Randomizer
-Program that allow user choose one of entered choises.
+Program that allow computer choose one of user entered choises.
